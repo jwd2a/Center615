@@ -1,0 +1,39 @@
+#hero {
+	background-color:#ccc;
+	height:400px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+#hero h1 {
+	font-size: 4em;
+	margin-bottom:0px;
+}
+
+#hero h2 {
+	margin-top:10px;
+}
+
+h4.ui.horizontal.header.divider {
+	margin-bottom: 40px;
+}
+
+.full.width.placeholder.image {
+	width: 100%;
+}
+
+.full.width.placeholder.image img {
+	width: 100%;
+	border: 1px solid #ccc;
+}
+
+#space-types div.ui.button {
+	margin-top:20px;
+}
+
+#about-the-center {
+	background-color: #ddd;
+	margin-top: 80px;
+}
